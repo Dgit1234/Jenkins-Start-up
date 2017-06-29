@@ -4,4 +4,6 @@ Test jenkins app
 
 Final testting to jenkins to see the build changes
 
-ndskfslfls
+#check the deployment status after the build
+
+some text
